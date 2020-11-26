@@ -6,5 +6,5 @@
 - 无需生成 html 文件
 - 众多主题
 
-[查看代码](https://github.com/damacha-z/)
+[访问仓库](https://github.com/damacha-z/)
 [开始阅读](README)
