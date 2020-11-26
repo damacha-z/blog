@@ -7,8 +7,8 @@
 
 * 桌面端开发
 
-  * [.NetFramework与WPF](/docs/B01-.net-framework/ ".NetFramework与WPF")
-  * [Electron跨平台开发](/docs/B02-electron/ "Electron跨平台开发")
+  * [WPF与.NetFramework](/docs/B01-.net-framework/ "WPF与.NetFramework")
+  * [Electron跨平台开发](/docs/B02-electron/README.md "Electron跨平台开发")
 
 * WEB互联网
 
